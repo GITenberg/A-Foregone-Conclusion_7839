@@ -13,7 +13,7 @@ Author: William Dean Howells
 
 Release Date: April, 2005 [EBook #7839]
 This file was first posted on May 21, 2003
-Last Updated: April 8, 2013
+[Last updated: December 5, 2014]
 
 Language: English
 
@@ -370,7 +370,7 @@ of practice, as they told him; but there were peculiarities in Don
 Ippolito's accent for which he could not account. "What," he exclaimed,
 "do you know English?"
 
-"I have studied it a little, by my myself," answered Don Ippolito,
+"I have studied it a little, by myself," answered Don Ippolito,
 pleased to have his English recognized, and then lapsing into the
 safety of Italian, he added, "And I had also the help of an English
 ecclesiastic who sojourned some months in Venice, last year, for his
@@ -595,7 +595,7 @@ sunlight."
 "Well, have it off, then. It sends the cold chills over me to look at
 it. What _did_ Byron call it?"
 
-"Yes, it's time for. Byron, now. It was very good of you not to mention
+"Yes, it's time for Byron, now. It was very good of you not to mention
 him before, Mrs. Vervain. But I knew he had to come. He called it a
 coffin clapped in a canoe."
 
@@ -1307,7 +1307,7 @@ Oh!" he cried, breaking by a sudden impulse from the composure with
 which he had begun to speak, "you don't know what you do for me; you
 lift me out of despair. Before you came, I had reached one of those
 passes that seem the last bound of endeavor. But you give me new life.
-Now I can go on with my experiment. I can at test my gratitude by
+Now I can go on with my experiment. I can attest my gratitude by
 possessing your native country of the weapon I had designed for it--I am
 sure of the principle: some slight improvement, perhaps the use of some
 different explosive, would get over that difficulty you suggested," he
@@ -1661,7 +1661,7 @@ breakfast. He has beautiful manners; and if he must take snuff, I
 suppose it's neater to carry two handkerchiefs, though it does look odd.
 I wish he wouldn't take snuff."
 
-"I don't see why we need care, mother. At any fate, we cannot help it."
+"I don't see why we need care, mother. At any rate, we cannot help it."
 
 "That's true, my dear. And his nails. Now when they're spread out on a
 book, you know, to keep it open,--won't it be unpleasant?"
@@ -1807,7 +1807,7 @@ Somebody administering the extreme unction to a victim of the Council of
 Ten? A priest stepping into a confessional at the Frari--tomb of Canova
 in the distance, perspective of one of the naves, and so forth--with his
 eye on a pretty devotee coming up to unburden her conscience? I've no
-patience with the follies people, think and say about Venice!"
+patience with the follies people think and say about Venice!"
 
 Florida stared in haughty question at the painter.
 
@@ -1832,9 +1832,9 @@ between Don Ippolito and Father O'Brien. At any rate, what I'm going to
 paint _at_ is the lingering pagan in the man, the renunciation first of
 the inherited nature, and then of a personality that would have enjoyed
 the world. I want to show that baffled aspiration, apathetic despair,
-and rebellious longing which you caten in his face When he's off his
+and rebellious longing which you caten in his face when he's off his
 guard, and that suppressed look which is the characteristic expression
-of all Austrian Venice. Then," said Ferris laughing, "T must work in
+of all Austrian Venice. Then," said Ferris laughing, "I must work in
 that small suspicion of Jesuit which there is in every priest. But it's
 quite possible I may make a Father O'Brien of him."
 
@@ -1943,7 +1943,7 @@ try to escape from it.
 VI.
 
 
-One afternoon, as Don Ippolito was posing to Perris for his picture of
+One afternoon, as Don Ippolito was posing to Ferris for his picture of
 A Venetian Priest, the painter asked, to make talk, "Have you hit upon
 that new explosive yet, which is to utilize your breech-loading cannon?
 Or are you engaged upon something altogether new?"
@@ -2177,7 +2177,7 @@ quickly. "Perhaps you could tell me of them to my face."
 common to the whole sex. I never said I was talking of your faults. I
 declared against doing so, and you immediately infer that my motive is
 remorse. I don't know that you have any faults. They may be virtues in
-disguise. There is a charm even in unfairness. Well, I did Bay that I
+disguise. There is a charm even in unfairness. Well, I did say that I
 thought you had a quick temper,"--
 
 Florida colored violently.
@@ -2217,7 +2217,7 @@ bring him to you."
 
 "I acted in the teeth of a bitter Venetian prejudice against priests.
 All my friends here--they're mostly young men with the modern Italian
-ideas, or old liberals--hate and despise the priests They believe
+ideas, or old liberals--hate and despise the priests. They believe
 that priests are full of guile and deceit, that they are spies for the
 Austrians, and altogether evil."
 
@@ -2355,7 +2355,7 @@ its lovely forms, and the lily whiteness and softness of the back, the
 rose of the palm and finger-tips.
 
 She idly resumed the great Venetian fan which hung from her waist by
-a chain. "Don Ippolito has been talking about the vitteggiatura on the
+a chain. "Don Ippolito has been talking about the villeggiatura on the
 Brenta in the old days," she explained.
 
 "Oh, yes," said the painter, "they used to have merry times in the
@@ -2370,7 +2370,7 @@ Yankees, you might be setting out with Illustrissima and all the
 'Strissimi and 'Strissime, big and little, for a spring villeggiatura
 there. You would be going in a gilded barge, with songs and fiddles
 and dancing, instead of a common gondola, and you would stay a month,
-walking, going to parties and caffès, drinking chocolate and lemonade
+walking, going to parties and caffès, drinking chocolate and lemonade,
 gaming, sonneteering, and butterflying about generally."
 
 "It was doubtless a beautiful life," answered the priest, with simple
@@ -3283,7 +3283,7 @@ he felt shelved, as an old fellow.
 
 He had an empty, frivolous visit, to his thinking. Mrs. Vervain asked
 if he had seen Don Ippolito, and wondered that the priest had not come
-about, al day. She told a long story, and at the end tapped herself on
+about, all day. She told a long story, and at the end tapped herself on
 the mouth with her fan to punish a yawn.
 
 Ferris rose to go. Mrs. Vervain wondered again in the same words why Don
@@ -3901,7 +3901,7 @@ opposition to her mother's wish or purpose.
 
 After dinner, Mrs. Vervain frankly withdrew for her nap, and Florida
 seemed to make a little haste to take some sewing in her hand, and sat
-down with the air of a woman willing; to detain her visitor. Ferris was
+down with the air of a woman willing to detain her visitor. Ferris was
 not such a stoic as not to be dimly flattered by this, but he was too
 much of a man to be fully aware how great an advance it might seem.
 
@@ -4164,10 +4164,10 @@ superstition expressed in the spectacle, but the mere splendid sight and
 the music are enough to make one shed tears. I don't know anything more
 affecting except a procession of lantern-lit gondolas and barges on the
 Grand Canal. It's phantasmal. It's the spectral resurrection of the old
-dead forms into the present. It's not even the ghost, it's the corpse,
+dead forms into the present. It's not even the ghost, it's the corpse
 of other ages that's haunting Venice. The city ought to have been
 destroyed by Napoleon when he destroyed the Republic, and thrown
-overboard----St. Mark, Winged Lion, Bucentaur, and all. There is no land
+overboard--St. Mark, Winged Lion, Bucentaur, and all. There is no land
 like America for true cheerfulness and light-heartedness. Think of our
 Fourth of Julys and our State Fairs. Selah!"
 
@@ -4226,7 +4226,7 @@ and every bit of this power and display of the church--_our_ church as
 well as the rest--might be only a cruel blunder, a dreadful mistake.
 Perhaps there isn't even any God! Do you think there is?"
 
-"I don't _think _it," said Ferris gravely, "I _know_ it. But I don't
+"I don't _think_ it," said Ferris gravely, "I _know_ it. But I don't
 wonder that this sight makes you doubt. Great God! How far it is from
 Christ! Look there, at those troops who go before the followers of the
 Lamb: their trade is murder. In a minute, if a dozen men called out,
@@ -5016,7 +5016,7 @@ her interest in him. But her making use of Ferris to confirm her own
 purposes by his words, her repeating them so that they should come back
 to him from Don Ippolito's lips, her letting another man go with her to
 look upon the procession in which her priestly lover was to appear in
-his sacerdotal panoply; these things could cot be accounted for except
+his sacerdotal panoply; these things could not be accounted for except
 by that strain of insolent, passionate defiance which he had noted ill
 her from the beginning. Why should she first tell Don Ippolito of their
 going away? "Well, I wish him joy of his bargain," said Ferris aloud,
@@ -5084,7 +5084,7 @@ poor priest, and violate the sanctity of his confidence? Ferris groaned
 aloud. No, contrive it as he would, call it by what fair name he chose,
 he could not commit this treachery. It was the more impossible to him
 because, in this agony of doubt as to what he should do, he now at least
-read big own heart clearly, and had no longer a doubt what was in it. He
+read his own heart clearly, and had no longer a doubt what was in it. He
 pitied her for the pain she must suffer. He saw how her simple goodness,
 her blind sympathy with Don Ippolito, and only this, must have led the
 priest to the mistaken pass at which he stood. But Ferris felt that
@@ -5244,7 +5244,7 @@ Vervain again spoke, it was in a tone of sudden querulousness. "I
 _wish_ Florida would come! She went to bolt the land-gate after Don
 Ippolito,--I wanted her to,--but she ought to have been back long ago.
 It's odd you didn't meet them, coming in. She must be in the garden
-Somewhere; I suppose she's sorry to be leaving it. But I need her. Would
+somewhere; I suppose she's sorry to be leaving it. But I need her. Would
 you be so very kind, Mr. Ferris, as to go and ask her to come to me?"
 
 Ferris rose heavily from the chair in which he seemed to have grown ten
@@ -5285,7 +5285,7 @@ Don Ippolito."
 I think we Venetians are never so conscious of the beauty of Venice as
 you strangers are."
 
-"I don't know. I only know that now, since we tave made up our minds to
+"I don't know. I only know that now, since we have made up our minds to
 go, and fixed the day and hour, it is more like leaving my own country
 than anything else I've ever felt. This garden, I seem to have spent my
 whole life in it; and when we are settled in Providence, I'm going
@@ -5375,7 +5375,7 @@ ruin! Do I not _live_ ruin here?"
 
 "No, no; not now, madamigella! I do not want to think of that man, now.
 I want you to help me once more to realize myself in America, where I
-shall never have been a priest, where I shall at least battle evenhanded
+shall never have been a priest, where I shall at least battle even-handed
 with the world. Come, let us forget him; the thought of him palsies all
 my hope. He could not see me save in this robe, in this figure that I
 abhor."
@@ -5538,11 +5538,11 @@ saw the figure of a priest gliding on before him.
 XVI.
 
 
-Florida swiftly me anted the terrace steps, but she stopped with her
+Florida swiftly mounted the terrace steps, but she stopped with her
 hand on the door, panting, and turned and walked slowly away to the end
 of the terrace, drying her eyes with dashes of her handkerchief, and
 ordering her hair, some coils of which had been loosened by her flight.
-Then she went back to the door, waited, and softly opened it, Her mother
+Then she went back to the door, waited, and softly opened it. Her mother
 was not in the parlor where she had left her, and she passed noiselessly
 into her own room, where some trunks stood open and half-packed against
 the wall. She began to gather up the pieces of dress that lay upon the
@@ -5877,7 +5877,7 @@ Marina fetch him a light.
 
 She set it on the table, and handed him the card Mrs. Vervain had left.
 He read it and read it again, and then he laid it down, and putting on
-his hat, he took his cane and went out. "Do not Wait for me, Marina," he
+his hat, he took his cane and went out. "Do not wait for me, Marina," he
 said, "I may be late. Go to bed."
 
 He returned at midnight, and lighting his candle took up the card and
